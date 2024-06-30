@@ -1,0 +1,7 @@
+<svg width="0" height="0">
+  <defs>
+    <clipPath id="semiCircleClip">
+      <path d="M 100,100 A 100,100 0 0,1 0,100 Z" />
+    </clipPath>
+  </defs>
+</svg>
